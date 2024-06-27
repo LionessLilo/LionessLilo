@@ -1,6 +1,6 @@
 <div align="center">
 
-    ![header](https://github.com/LionessLilo/LionessLilo/blob/main/Github%20profile%20header%20image.png)
+![header](https://github.com/LionessLilo/LionessLilo/blob/main/Github%20profile%20header%20image.png)
 
 </div>
 
