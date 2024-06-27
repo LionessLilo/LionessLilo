@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**LionessLilo/LionessLilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    ![header](Github%20profile%20header%20image.png)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋‍♀️ About me
+Ex-teacher turned designer, now inspired by my senior software engineer husband, I've begun my coding journey with front-end projects. This summer, I'm diving deeper with a C/C++ course! Stay tuned for my code adventures!
+
+## 📚 So, What am I learning?
+
+- HTML
+- CSS
+
+## 📚➕ What do I plan to learn in the near future?
+
+- JavaScript
+- C
+- C++
+
+## 🥅 2024 Goals
+
+1. Understand and be able to build basic web pages with HTML, CSS and JavaScript
+2. Study through Codam in Amsterdam
