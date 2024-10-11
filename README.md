@@ -9,14 +9,13 @@ Ex-teacher turned designer, now inspired by my senior software engineer husband,
 
 ## 📚 So, What am I learning?
 
+- C
 - HTML
 - CSS
 
 ## 📚➕ What do I plan to learn in the near future?
 
 - JavaScript
-- C
-- C++
 
 ## 🥅 2024 Goals
 
