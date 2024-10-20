@@ -4,6 +4,10 @@
 
 </div>
 
+<a href="https://holopin.io/@lionesslilo">
+  <img src="https://www.holopin.me/lionesslilo" alt="@lionesslilo's Holopin board" />
+</a>
+
 ## 🙋‍♀️ About me
 Ex-teacher turned designer, now inspired by my senior software engineer husband, I've begun my coding journey with front-end projects. This summer, I'm diving deeper with a C/C++ course! Stay tuned for my code adventures!
 
