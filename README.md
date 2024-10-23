@@ -25,3 +25,10 @@ Ex-teacher turned designer, now inspired by my senior software engineer husband,
 
 1. Understand and be able to build basic web pages with HTML, CSS and JavaScript
 2. Study through Codam in Amsterdam
+<br>
+<br>
+<div align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LionessLilo&theme=ambient_gradient&icons=true)
+
+</div>
